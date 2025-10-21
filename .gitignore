@@ -57,4 +57,5 @@ node_modules/
 .env.local
 .DS_Store
 
-readme2.md
+# Jest config file
+!jest.config.js

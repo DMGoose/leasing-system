@@ -93,7 +93,7 @@ style Persistence_Layer fill:#f4f4f4,stroke:#000,stroke-width:2px,color:#000
 
 ```bash
 git init
-git clone xxxx
+git clone https://github.com/DMGoose/leasing-system.git
 cd leasing-system
 npm i
 ```
